@@ -1,1 +1,3 @@
-The design of the full adder circuit is completed in this file. Separate modules have been created for all digital circuits required to create the structural design of the full adder.
+The design of the full adder circuit is completed in this file.
+Separate modules have been created for all digital circuits required to create the structural design of the full adder.
+The test bench is also available within this folder.
